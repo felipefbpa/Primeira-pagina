@@ -170,6 +170,7 @@ aside{
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.527);
+    margin-top: 15px;
 }
 
 aside > ul{
